@@ -1,0 +1,1 @@
+require('github-theme').load(vim.o.background)
